@@ -1,6 +1,3 @@
-
-
-
 function distanceFromHqInBlocks(blockNumber) {
    
    return Math.abs(blockNumber - 42) 
